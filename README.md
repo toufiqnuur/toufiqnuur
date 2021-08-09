@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Developer
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me ...
+- 📫 How to reach me <a href="mailto:taufik2017yk@gmail.com">mail</a>
 
 ### Github Statistic
 <p align="left">
