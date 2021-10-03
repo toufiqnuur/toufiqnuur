@@ -15,7 +15,7 @@
 ### Get in touch
 - [Email](mailto:taufik2017yk@gmail.com)
 - [Instagram](https://instagram.com/_topexnuur)
-- [YouTube](https://youtube.com/c/toufiqnuur)
+- [YouTube](https://youtube.com/c/toufiqnuurr)
 
 <!---
 toufiqnuur/toufiqnuur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
