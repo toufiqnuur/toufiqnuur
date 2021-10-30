@@ -14,7 +14,7 @@ Front End Web Developer. ❤️ JavaScript
 
 ## 🚀 In the air
 - [📝 Blog](https://nopekun-txt.pages.dev)
-- [🧒 Portdolio](https://nopekun.pages.dev)
+- [🧒 Portfolio](https://nopekun.pages.dev)
 - [🚬 Skanesga](https://skanesga.vercel.app)
 - [🚬 Ngaji](http://ngaji-opal.vercel.app)
 - [🚬 Anihub](https://anihub.vercel.app/)
