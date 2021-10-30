@@ -17,6 +17,7 @@ Front End Web Developer. ❤️ JavaScript
 - [🧒 Portdolio](https://nopekun.pages.dev)
 - [🚬 Skanesga](https://skanesga.vercel.app)
 - [🚬 Ngaji](http://ngaji-opal.vercel.app)
+- [🚬 Anihub](https://anihub.vercel.app/)
 
 ## 📦 Package
 - [🧰 nik-valid](https://www.npmjs.com/package/nik-valid)
