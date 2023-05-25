@@ -13,10 +13,9 @@ Front End Web Developer. ❤️ JavaScript
 - [📺 YouTube](https://youtube.com/c/toufiqnuurr)
 
 ## 🚀 In the air
-- [📝 Blog](https://nopekun-txt.pages.dev)
+- (🟢) [sev](https://sev.my.id) - URL Shortener
+- (🟢) [skanesga](https://skanesga.vercel.app) - Vocational High School Landing Page (redesign)
 - [🧒 Portfolio](https://nopekun.pages.dev)
-- [🚬 Skanesga](https://skanesga.vercel.app)
-- [🚬 Ngaji](http://ngaji-opal.vercel.app)
 - [🚬 Anihub](https://anihub.vercel.app/)
 
 ## 📦 Package
